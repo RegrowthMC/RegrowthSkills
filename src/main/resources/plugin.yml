@@ -2,4 +2,4 @@ name: RegrowthSkills
 version: ${project.version}
 main: org.lushplugins.regrowthskills.RegrowthSkills
 api-version: '1.21'
-github-repo: ProjectOwner/RegrowthSkills
+github-repo: RegrowthMC/RegrowthSkills
