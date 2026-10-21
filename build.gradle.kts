@@ -16,7 +16,7 @@ repositories {
 
 dependencies {
     // Dependencies
-    compileOnly("io.papermc.paper:paper-api:26.1.2.build.72-stable")
+    compileOnly("io.papermc.paper:paper-api:26.3.build.205-stable")
 
     // Soft Dependencies
 
